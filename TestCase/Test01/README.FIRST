@@ -1,0 +1,6 @@
+./allclean
+./allrun
+suspendedConcentrationFoam > log.suspendedConcentrationFoam &
+
+
+
